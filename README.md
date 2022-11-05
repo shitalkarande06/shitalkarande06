@@ -1,5 +1,5 @@
-<h1 align="center">Hey there,</h1>
-<h1 align ="center"> I am Shital</h1>
+<h1 align="left">Hey there, I am Shital :smile:</h1>
+
 <h3 align="center">Make it work, make it right, make it fast.</h3>
 
 - 🌱 I’m currently learning **Web Developmet**
