@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm shital Karande</h1>
-<h3 align="center">A girl trying to figure out stuff.</h3>
+<h1 align="center">Hey there,</h1>
+<h1 align ="center"> I am Shital</h1>
+<h3 align="center">Make it work, make it right, make it fast.</h3>
 
 - 🌱 I’m currently learning **Web Developmet**
 
