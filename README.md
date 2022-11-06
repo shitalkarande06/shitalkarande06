@@ -1,17 +1,30 @@
 <h3 align="left">Hey there, I am Shital :smile:</h3>
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h3 align="center">Make it work, make it right, make it fast.</h3>
 <br>
-<video border-radius="20%" align="left"  >
-  <source src="Untitled design.mp4" type="video/mp4">
-</video>
 
-- 🌱 I’m currently learning **Web Developmet**
+![GitHub watchers](https://img.shields.io/github/watchers/shitalkarande06/shitalkarande06?label=visitors&style=social)
 
-- 📫 How to reach me **Karandeshital136@gmail.com**
+👩🏼‍🎓 _Aspiring **Full Stack Web Development** at [LetsUpgrade ed-Tech](https://letsupgrade.in/)_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/shital karande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shital karande" height="30" width="40" /></a>
-<a href="https://instagram.com/littlee.messs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="littlee.messs" height="30" width="40" /></a>
-</p>
+😍 _More into Frontend Development._
+
+ <br> <br>
+
+  ### **A little More about myself**
+
+<br>
+
+```javascript
+const Shital = {
+  pronouns: "she" | "her",
+  languages: [ Javascript, C++, HTML, CSS ],
+  frameworks: [ React, Bootstrap ],
+  tools: [ Node, MongoDB ],
+  hereFor: "Posting My stuff related to web development",
+}
+```
+<br>
+
+<!-- <h2 align="center"><b>Connect with me here </b></h2> -->
+ 
