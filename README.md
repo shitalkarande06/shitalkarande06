@@ -1,4 +1,5 @@
 <h3 align="left">Hey there, I am Shital :smile:</h3>
+<hr>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h3 align="center">Make it work, make it right, make it fast.</h3>
 <br>
